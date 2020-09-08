@@ -3,16 +3,16 @@
 
 Few technical terms used:
 
-# Sequential
-# Dense
-# input_shape=[]
+# ->Sequential
+# ->Dense
+# ->input_shape=[]
 
 Functions used:
 
-# loss :
+# ->loss :
 Measures how good the current 'guess' is
 
-# optimizer :
+# ->optimizer :
 Generates a new and improved 'guess'
 
 
